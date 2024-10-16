@@ -13,7 +13,7 @@ The *Data* folder consists of mainly .csv and .xlsx files used in the assignment
 **If you are using Jupyter Notebook or Google colab, you have no need fot this section**
 
 I'm coding this course primarily by using VS Code and there are certain python module requirements. All of the required modules are listed in this section and I will expand this list as the course continues.
-Note that the format is Jupyter Notebook (.ipynb), so if using VS Code install the appropriate extension (Jupyter). As of writing, the project is using the Python 3.13.0 kernel for the .ipynb execution.
+Note that the format is Jupyter Notebook (.ipynb), for VS Code the appropriate extension (Jupyter) are needed. As of writing, the project is using the Python 3.13.0 kernel for the .ipynb execution.
 
 ### Python modules needed
 
