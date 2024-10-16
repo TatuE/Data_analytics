@@ -13,7 +13,7 @@ Data-kansio koostu tehtävissä käytettävistä data-paketeista (.csv, .xlsx).
 
 Ohjelmoin tehtävät käyttäen Visual Studio Code (VS Code) ohjelmointiympäristöä ja tätä varten tulee olla eräitä Python-moduuleita asennettuna.
 Kaikki projektissa käytetyt Python-moduulit on listattu tässä osiossa ja päivitän listaa sitä mukaan kun kurssi etenee.
-Huomiotavaa, että tiedostoformaatti on Jupyter Notebook (.ipynb) ja tätä varten tulisi olla asennettuna tarvittava liitännäinen (jupyter).
+Huomiotavaa, että tiedostoformaatti on Jupyter Notebook (.ipynb) ja tätä varten tulisi olla asennettuna tarvittavat liitännäiset (jupyter) jos ohjelmistoympäristö ei tätä oletuksella tue.
 
 ### Tarvittavat Python-moduulit
 
