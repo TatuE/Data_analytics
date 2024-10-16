@@ -1,21 +1,21 @@
 # Data analytics
 
-A Data analytics course (TKI2HM002-3040) taught at Haaga-Helia University of Applied Sciences.
-The course is done using Python and consists of several assignments, that are available at this repository.
+Haaga-Helian ammattikorkeakoulussa opetustarjonnassa oleva Data-analytiikan kurssi. Kurssi suoritetaan Python-ohjelmointikielellä ja koostuu useista tehtävistä, jotka ovat saatavilla tässä tietovarastossa.
 
-## Project structure
+## Tietovaraston rakenne
 
-Assignments are commited to the root folder with descriptive naming.
-The *Data* folder consists of mainly .csv and .xlsx files used in the assignments.
+Tehtävät lisätään tämän tietovaraston juureen, nimet pyritään pitämään kuvailevina.
+Data-kansio koostu tehtävissä käytettävistä data-paketeista (.csv, .xlsx).
 
-## Technical requirements
+## Tekniset vaatimukset
 
-**If you are using Jupyter Notebook or Google colab, you have no need fot this section**
+**HUOM! Jos käytät Google colab:a, voi jättää tämän osion huomioimatta**
 
-I'm coding this course primarily by using VS Code and there are certain python module requirements. All of the required modules are listed in this section and I will expand this list as the course continues.
-Note that the format is Jupyter Notebook (.ipynb), for VS Code the appropriate extension (Jupyter) are needed. As of writing, the project is using the Python 3.13.0 kernel for the .ipynb execution.
+Ohjelmoin tehtävät käyttäen VS Code:a ja tätä varten tulee olla eräitä Python-moduuleita asennettuna.
+Kaikki projektissa käytetyt Python-moduulit on listattu tässä osiossa ja päivitän listaa sitä mukaan kun kurssi etenee.
+Huomiotavaa että tiedostoformaatti on Jupyter Notebook (.ipynb), VS Code:a varten tulisi asentaa tarvittava liitänäninen (jupyter).
 
-### Python modules needed
+### Tarvittavat Python-moduulit
 
 - pandas
 - openpyxl
