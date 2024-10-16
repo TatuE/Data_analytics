@@ -1,4 +1,4 @@
-# Data analytics
+# Data-analytiikka
 
 Haaga-Helian ammattikorkeakoulussa opetustarjonnassa oleva Data-analytiikan kurssi. Kurssi suoritetaan Python-ohjelmointikielellä ja koostuu useista tehtävistä, jotka ovat saatavilla tässä tietovarastossa.
 
