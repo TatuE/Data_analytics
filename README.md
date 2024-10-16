@@ -9,11 +9,11 @@ Data-kansio koostu tehtävissä käytettävistä data-paketeista (.csv, .xlsx).
 
 ## Tekniset vaatimukset
 
-**HUOM! Jos käytät Google colab:a, voi jättää tämän osion huomioimatta**
+**HUOM! Jos käytät Google colab:a, voi jättää tämän osion huomioimatta.**
 
 Ohjelmoin tehtävät käyttäen VS Code:a ja tätä varten tulee olla eräitä Python-moduuleita asennettuna.
 Kaikki projektissa käytetyt Python-moduulit on listattu tässä osiossa ja päivitän listaa sitä mukaan kun kurssi etenee.
-Huomiotavaa että tiedostoformaatti on Jupyter Notebook (.ipynb), VS Code:a varten tulisi asentaa tarvittava liitänäninen (jupyter).
+Huomiotavaa, että tiedostoformaatti on Jupyter Notebook (.ipynb), VS Code:ssa tulisi olla asennettuna tarvittava liitännäinen (jupyter).
 
 ### Tarvittavat Python-moduulit
 
