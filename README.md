@@ -25,3 +25,5 @@ Huomiotavaa, että tiedostoformaatti on Jupyter Notebook (.ipynb) ja tätä vart
 - numpy
 - Jinja2
 - nbconvert
+
+[a link](https://github.com/TatuE/Data_analytics/blob/main/assignment_1/Tehtava_1_kuvaileva_%26_selittava.html)
