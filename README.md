@@ -24,3 +24,4 @@ Huomiotavaa, että tiedostoformaatti on Jupyter Notebook (.ipynb) ja tätä vart
 - scipy
 - numpy
 - Jinja2
+- nbconvert
