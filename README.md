@@ -26,4 +26,10 @@ Huomiotavaa, että tiedostoformaatti on Jupyter Notebook (.ipynb) ja tätä vart
 - Jinja2
 - nbconvert
 
-[a link](https://github.com/TatuE/Data_analytics/blob/main/assignment_1/Tehtava_1_kuvaileva_%26_selittava.html)
+## Kurssin tehtävät
+
+Kaikki tietovaraston tehtävät käännetään html-muotoon jotta niitä voi tarkastella selaimella.
+
+### Linkit tehtäviin
+
+[Tehtävä 1](https://github.com/TatuE/Data_analytics/blob/main/assignment_1/Tehtava_1_kuvaileva_%26_selittava.html)
