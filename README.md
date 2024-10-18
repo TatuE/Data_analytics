@@ -4,7 +4,7 @@ Haaga-Helian ammattikorkeakoulussa opetettava Data-analytiikan kurssi. Kurssi su
 
 ## Tietovaraston rakenne
 
-Tehtävät lisätään tämän tietovaraston juureen, nimet pyritään pitämään kuvailevina.
+Tehtävät lisätään tämän tietovaraston omina kansioinaan, nimet pyritään pitämään kuvailevina.
 Data-kansio koostu tehtävissä käytettävistä data-paketeista (.csv, .xlsx).
 
 ## Tekniset vaatimukset
