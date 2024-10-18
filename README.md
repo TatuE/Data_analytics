@@ -32,4 +32,4 @@ Kaikki tietovaraston tehtävät käännetään html-muotoon jotta niitä voi tar
 
 ### Linkit tehtäviin
 
-[Tehtävä 1](https://github.com/TatuE/Data_analytics/blob/main/assignment_1/Tehtava_1_kuvaileva_%26_selittava.html)
+[Tehtävä 1](https://tatue.github.io/Data_analytics/assignment_1/Tehtava_1_kuvaileva_%26_selittava.html)
