@@ -25,6 +25,7 @@ Huomiotavaa, että tiedostoformaatti on Jupyter Notebook (.ipynb) ja tätä vart
 - numpy
 - Jinja2
 - nbconvert
+- yfinance
 
 ## Kurssin tehtävät
 
