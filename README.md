@@ -24,7 +24,7 @@ Huomiotavaa, että tiedostoformaatti on Jupyter Notebook (.ipynb) ja tätä vart
 - scipy
 - numpy
 - Jinja2
-- nbconvert
+- nbconvert <= tätä tarvitaan ainoastaan HTML käännöstä varten (.ipynb => .html).
 - yfinance
 
 ## Kurssin tehtävät
