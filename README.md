@@ -26,6 +26,8 @@ Huomiotavaa, että tiedostoformaatti on Jupyter Notebook (.ipynb) ja tätä vart
 - Jinja2
 - nbconvert <= tätä tarvitaan ainoastaan HTML käännöstä varten (.ipynb => .html).
 - yfinance
+- scikit-learn
+- imblearn
 
 ## Kurssin tehtävät
 
