@@ -37,6 +37,7 @@ Kaikki tietovaraston tehtävät käännetään html-muotoon jotta niitä voi tar
 
 - [Tehtävä 1](https://tatue.github.io/Data_analytics/assignment_1/Tehtava_1_kuvaileva_%26_selittava.html)
 - [Tehtävä 2](https://tatue.github.io/Data_analytics/assignment_2/Tehtava_2_aikasarjat.html)
+- [Tehtävä 3](https://tatue.github.io/Data_analytics/assignment_3/Tehtava_3_koneoppiminen.html)
 
 ## Linkki tietovarastoon
 
