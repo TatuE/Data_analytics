@@ -42,5 +42,3 @@ Kaikki tietovaraston tehtävät käännetään html-muotoon jotta niitä voi tar
 ## Linkki tietovarastoon
 
 [Data_analytics](https://github.com/TatuE/Data_analytics)
-
-
